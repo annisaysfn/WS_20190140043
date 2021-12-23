@@ -1,0 +1,17 @@
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\ArtisController.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\datamahasiswa\DatamahasiswaJpaController.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\datamahasiswa\exceptions\NonexistentEntityException.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\Book.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\dummy\Dummy_.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\datamahasiswa\exceptions\PreexistingEntityException.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\dummy\exceptions\NonexistentEntityException.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\dummy\Dummy.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\dummy\exceptions\IllegalOrphanException.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\Application.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\dummy\DummyLogicController.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\dummy\exceptions\PreexistingEntityException.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\datamahasiswa\Datamahasiswa.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\datamahasiswa\Datamahasiswa_.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\datamahasiswa\DatamahasiswaController.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\datamahasiswa\exceptions\IllegalOrphanException.class
+ws\praktikum\c\tiga\ws\praktikum\c\tiga\dummy\DummyJpaController.class
